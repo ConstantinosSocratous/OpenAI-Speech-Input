@@ -11,4 +11,7 @@ Add your API_KEY to the ```.env``` file
 
 Run main.py -> ```python main.py```
 
+conv.txt hold the conversation. Around 4K tokens is the maximum tokens allowed.
+
+**BE AWARE THAT OPENAI PROVIDES YOUR ACCOUNT WITH SOME FREE USAGE - WHEN IT EXPIRES YOU NEED TO UPGRADE YOUR OPENAI PLAN**
 
