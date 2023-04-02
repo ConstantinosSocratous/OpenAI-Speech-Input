@@ -1,8 +1,6 @@
 # OpenAI-Speech-Input
- Use audio/speach input for open ai models, e.g. chatgpt, dalle2
- 
-Current code is still under development 
- 
+ Use audio/speach input for the open ai models, e.g. chatgpt, dalle2
+  
 Install requirements - > ```pip install -r requirements.txt```
 Python >-3.8 is required
 
